@@ -17,21 +17,31 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+
 
 <img align="left" alt="Flutter" width="26px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" />
 
 <img align="left" alt="Android" width="26px" src="https://www.welivesecurity.com/wp-content/uploads/es-la/2012/12/Logo-Android.png" />
 
+<img align="left" alt="NativeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/NativeScript_logo.png" />
+
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Java" width="26px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
 
 <img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v7d29b723aef4d149fe98fb5331f45df163ead31f4cb33149234e59d978e54b1e/firebase/images/touchicon-180.png" />
 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Android Studio" width="26px" src="https://miro.medium.com/max/640/1*SDw6CzFHDnCzdW-wckN9xg.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
