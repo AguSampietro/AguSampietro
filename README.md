@@ -1,6 +1,6 @@
 ### Hi there, I'm Agustin 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAguSampietro&screen_name=AguSampietro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AguSampietro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAguSampietro&screen_name=AguSampietro)
 
 ## I'm a Mobile Developer, Amateur Golfer and Whisky Tester!!
 
