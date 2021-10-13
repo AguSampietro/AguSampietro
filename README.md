@@ -7,11 +7,17 @@
 - 🤓 I’m currently learning everything
 - ⚡ Fun fact: I love to play golf
 
+<br />
 ### Connect with me:
 
 [<img align="left" alt="AguSampietro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Agustin Sampietro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AguSampietro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+## Skills
 
 <br />
 
@@ -30,6 +36,7 @@
 <img align="left" alt="Java" width="35px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
 
 <br />
+<br />
 
 ### Data base:
 
@@ -39,7 +46,7 @@
 
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-
+<br />
 <br />
 
 ### Tools:
