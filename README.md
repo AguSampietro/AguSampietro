@@ -29,6 +29,7 @@
 
 <img align="left" alt="Java" width="35px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
 
+<br />
 
 ### Data base:
 
@@ -39,8 +40,9 @@
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 
-### Tools:
+<br />
 
+### Tools:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
