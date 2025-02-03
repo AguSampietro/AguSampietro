@@ -12,7 +12,7 @@
 
 <br />
 
-### Connect with me:
+### 🌎 Connect with me:
 
 [<img align="left" alt="AguSampietro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Agustin Sampietro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-## Skills
+## 🛠️ Skills
 
 
 ### Languages and Frameworks:
@@ -43,7 +43,7 @@
 
 ### Data base:
 
-<img align="left" alt="Firebase" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v7d29b723aef4d149fe98fb5331f45df163ead31f4cb33149234e59d978e54b1e/firebase/images/touchicon-180.png" />
+<img align="left" alt="Firebase" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v0113b933d5c9ba4165415ef34b487d624de9fe7d51074fd538a31c5fc879d909/firebase/images/lockup.svg" />
 
 <img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
@@ -76,3 +76,16 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<br />
+<br />
+<br />
+---
+<br />
+Always open to new challenges and collaborations. See you in the code! 🚀
+<br />
+---
+<br />
+<br />
+<a href="https://agusampietro.com/" >agusampietro.com</a>
+
